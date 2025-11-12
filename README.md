@@ -1,6 +1,6 @@
 # Agregador de Links 🚀
 
-![Banner ou GIF do Projeto](/Users/maysafonseca/Documents/DEV FRONT E BACK/links/assets/cover.png)
+![Banner ou GIF do Projeto](./assets/cover.png)
 
 Um projeto de agregador de links no estilo "link-in-bio", desenvolvido como parte de um estudo em HTML, CSS e JavaScript. O projeto conta com um design responsivo e uma funcionalidade de **Dark Mode / Light Mode**.
 
